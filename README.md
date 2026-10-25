@@ -5,6 +5,7 @@ This repo owns the custom domain **qr.kerrylemon.co.uk**. Each sculpture's QR si
 | Sculpture | Repo | Address |
 |---|---|---|
 | PORTAL | `portal` | https://qr.kerrylemon.co.uk/portal/ |
+| Sparrowkeepers | `sparrowkeepers` | https://qr.kerrylemon.co.uk/sparrowkeepers/ |
 
 The root of the domain (and any unknown address) forwards to https://www.kerrylemon.co.uk/.
 
